@@ -1,0 +1,9 @@
+pyvenv.cfg
+share
+models_compressed
+lib
+include
+ect/jupyter
+bin
+__pycache__
+.idea
